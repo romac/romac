@@ -1,16 +1,32 @@
-## Hi there 👋
+# Romac
 
-<!--
-**romac/romac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm passionate about **Formal Methods**, **Functional Programming**, and **Distributed Systems**. My favorite languages include Rust, Scala, and Haskell, and I love exploring topics like Type Theory, FP and compiler construction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working at [Informal Systems](https://github.com/informalsystems)
+- 🌍 Based in Lausanne, Switzerland
+- 📫 Reach me at [github@romac.me](mailto:github@romac.me)
+
+---
+
+## ⚡ Fun Facts
+
+- 🕰️ On GitHub since July 2009
+- 🎯 Always keen to chat about distributed systems, FP, or formal verification!
+
+---
+
+## 📚 Latest Projects
+
+Check out my pinned repositories for what I'm currently working on.
+
+---
+
+## 🧑‍💻 Let's Connect
+
+- [Website](https://romac.me)
+
+---
+
+_Thanks for stopping by!_
