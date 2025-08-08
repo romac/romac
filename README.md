@@ -27,6 +27,3 @@ Check out my pinned repositories for what I'm currently working on.
 
 - [Website](https://romac.me)
 
----
-
-_Thanks for stopping by!_
