@@ -4,7 +4,7 @@
 
 I'm passionate about **Formal Methods**, **Functional Programming**, **Distributed Systems**, **Compiler Construction**, and **OS Development**, and I typically explore these topics in Rust, Scala, and Haskell.
 
-- Currently working at [Informal Systems](https://github.com/informalsystems)
+- Currently working at [Circle](https://github.com/circlefin)
 - Based in Lausanne, Switzerland
 - Reach me at [github@romac.me](mailto:github@romac.me)
 
