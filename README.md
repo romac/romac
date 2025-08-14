@@ -8,7 +8,6 @@ I'm passionate about **Formal Methods**, **Functional Programming**, **Distribut
 - Based in Lausanne, Switzerland
 - Reach me at [github@romac.me](mailto:github@romac.me)
 
----
 
 ## Fun Facts
 
@@ -16,13 +15,11 @@ I'm passionate about **Formal Methods**, **Functional Programming**, **Distribut
 - My first computer was a Macintosh Classic 
 - The first programming language I learned is AppleScript
 
----
 
 ## Latest Projects
 
 Check out my pinned repositories for what I'm currently working on.
 
----
 
 ## Let's Connect
 
