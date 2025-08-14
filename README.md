@@ -15,11 +15,6 @@ I'm passionate about **Formal Methods**, **Functional Programming**, **Distribut
 - The first programming language I learned is AppleScript
 
 
-## Latest Projects
-
-Check out my pinned repositories for what I'm currently working on.
-
-
 ## Let's Connect
 
 - [Website](https://romac.me)
