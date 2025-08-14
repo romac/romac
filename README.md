@@ -6,7 +6,6 @@ I'm passionate about **Formal Methods**, **Functional Programming**, **Distribut
 
 - Currently working as a **Senior Staff Software Engineer** at [Circle](https://github.com/circlefin)
 - Based in **Lausanne, Switzerland**
-- Reach me at [github@romac.me](mailto:github@romac.me)
 
 
 ## Fun Facts
@@ -24,3 +23,4 @@ Check out my pinned repositories for what I'm currently working on.
 ## Let's Connect
 
 - [Website](https://romac.me)
+- Reach me at [github@romac.me](mailto:github@romac.me)
